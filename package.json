@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "natural": "^8.0.1",
+    "puppeteer": "^23.6.1"
+  },
+  "name": "scrapper",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
