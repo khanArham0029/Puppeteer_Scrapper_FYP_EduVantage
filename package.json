@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "compromise": "^14.14.2",
     "natural": "^8.0.1",
     "puppeteer": "^23.6.1"
   },
